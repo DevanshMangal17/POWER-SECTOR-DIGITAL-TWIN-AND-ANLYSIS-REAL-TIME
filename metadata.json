@@ -1,0 +1,6 @@
+{
+  "name": "GridVision India",
+  "description": "Real-Time Grid Intelligence & Digital Twin Platform for Indian Electricity Grid",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
